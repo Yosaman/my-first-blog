@@ -1,0 +1,15 @@
+h1 a, h3 a {
+    color: rgb(252, 162, 5);
+    font-family: 'Lobster';
+}
+
+.post {
+  background: rgba(255, 255, 0, 0.5);
+  padding: 10px;
+  margin: 5px;
+}
+
+.date {
+  text-align: right;
+  border-bottom: 1px dotted grey;
+}
